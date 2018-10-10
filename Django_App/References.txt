@@ -1,0 +1,13 @@
+
+Django REST Framework‚ðŽg‚Á‚Ä”š‘¬‚ÅAPI‚ðŽÀ‘•‚·‚é
+https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8
+
+Django REST framework
+http://www.django-rest-framework.org/
+
+Django project - Settings
+https://docs.djangoproject.com/en/2.1/ref/settings/
+
+
+
+https://www.sqlite.org/arch.html
